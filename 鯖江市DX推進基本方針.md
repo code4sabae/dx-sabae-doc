@@ -83,3 +83,4 @@
 ## 出展
 
 - [鯖江市DX推進基本方針](https://www.city.sabae.fukui.jp/about_city/it_nomachi/dxsuishin.files/DXhoshin.pdf)
+- [data on GitHub](https://github.com/code4sabae/dx-sabae-doc)
