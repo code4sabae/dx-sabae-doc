@@ -31,3 +31,4 @@
 ## 出展
 
 - [鯖江市DX推進基本方針およびDX推進計画について – めがねのまちさばえ 鯖江市](https://www.city.sabae.fukui.jp/about_city/it_nomachi/dxsuishin.html)
+- [data on GitHub](https://github.com/code4sabae/dx-sabae-doc)
