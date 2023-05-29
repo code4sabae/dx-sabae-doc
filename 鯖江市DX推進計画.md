@@ -122,3 +122,4 @@ ChatGPTやMicrosoft 365 Copilotなどの生成AIや新技術の活用により�
 ## 出展
 
 - [令和5年度DX推進計画](https://www.city.sabae.fukui.jp/about_city/it_nomachi/dxsuishin.files/R5keikaku.pdf)
+- [data on GitHub](https://github.com/code4sabae/dx-sabae-doc)
