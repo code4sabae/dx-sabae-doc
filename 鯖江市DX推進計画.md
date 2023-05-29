@@ -80,7 +80,7 @@ ChatGPTやMicrosoft 365　Copilotなどの生成AIや新技術の活用により
 
 ### （２） 新たな業務支援ツール等の導入
 
-- Microsoft　365
+- Microsoft 365
 
     Word、ExcelなどのOffice製品の更新とともに、Teamsの導入により、チャットやWEB会議などコミュニケーションツールとしての活用を開始。
 
